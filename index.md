@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-![Alt text](new-dp.jpeg?raw=true "Title")
+![Alt text](new-dp.jpg?raw=true "Title")
 
 I'm an assistant professor in the [Linguistics Department](https://www.ling.upenn.edu) at the University of Pennsylvania and the director of the [Child Language Lab](https://childlanglab.com).  
 
