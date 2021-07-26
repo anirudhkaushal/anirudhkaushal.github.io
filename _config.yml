@@ -16,6 +16,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:
+  - {title: "About", url: "/"}
   - {title: "Resume", url: "/Anirudh_Kaushal_Resume.pdf", icon: home}
   - {title: "Blog", file: "blog.md"}
 
