@@ -16,9 +16,9 @@ show_sidebar: true       # show a sidebar instead of the usual header
 # Menu
 
 navigation:
-  - {title: "About", url: "/"}
-  - {title: "Resume", url: "/Anirudh_Kaushal_Resume.pdf", icon: home}
-  - {title: "Blog", file: "blog.md"}
+  - {title: "About Me", url: "/", icon: user }
+  - {title: "Resume", url: "/Anirudh_Kaushal_Resume.pdf", icon: file}
+  - {title: "Blog", file: "blog.md", icon: paragraph}
 
 external:                  # see http://fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:anirudhkushal30@gmail.com"}
