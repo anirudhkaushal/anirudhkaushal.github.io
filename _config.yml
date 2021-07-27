@@ -21,7 +21,7 @@ navigation:
   - {title: "Blog", file: "blog.md", icon: paragraph}
 
 external:                  # see http://fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:anirudhkushal30@gmail.com"}
+  - {title: Email, icon: envelope, url: "mailto:anirudhkushal30@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/anirudhkaushal"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/anirudhkaushal"}
 
