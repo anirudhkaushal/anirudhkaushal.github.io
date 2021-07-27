@@ -4,6 +4,10 @@ title: ""
 ---
 ![Alt text](new-dp.jpg?raw=true "Title")
 
-I'm an assistant professor in the [Linguistics Department](https://www.ling.upenn.edu) at the University of Pennsylvania and the director of the [Child Language Lab](https://childlanglab.com).  
+## HELLO WORLD!
+My name is Anirudh Kaushal and welcome to my personal website. I am an undergraduate student at [Amity University, Noida](https://www.amity.edu/) pursuing my Bachelors of Technology in Computer Science and Engineering. I am currently in final year(4th year) of my B.Tech. 
 
-I teach a graduate seminar in [psycholinguistics](/ling607), an undergraduate course in [language and the brain](/ling104) and a crossover course in [neurolinguistics](https://public.3.basecamp.com/p/YWZxdZBxNSam92CL6oZQNptm). Occasionally, I also teach [LING 1](/ling001), Penn's Introduction to Linguistics.
+In order to know more about me, you can checkout my resume. It contains details such as my education, skills, work experience, projects and achievements. The projects mentioned in my resume have links attached to them which will lead to the Github repository of the same. You can reach me via email or via LinkedIn. I have provided my email id as well as link to my LinkedIn profile in this website. 
+
+I have also included a 'Blog' section in this website. You can also check that out in order to read my blogs. I am new to the blogging world but hopefully I get better with time.
+
